@@ -1,2 +1,3 @@
 # lightshowweb
-Website and documentation for Christmas Light Show
+
+Website and documentation for Light Show
