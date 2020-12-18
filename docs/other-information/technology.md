@@ -12,15 +12,15 @@ Raspberry Pi.
 
 All of the lights are LED. Only two colors are used for the light show, white and red.
 
-### Relays
+### Solid State Relays
 
 All of the relays are Solid State Relays (SSR). SSRs were used because they have no mechanical or moving
 parts and having greater reliability for being switched on and off frequently. 
 
 Mechanical relays heat up from switching on an off. When done repeatedly, like during a song, the relay can
-actually over heat and self-destruct.
+actually over heat, self-destruct, or weld itself closed.
 
-### FM Transmission
+### FM Radio Transmission
 
 Music is transmitted over radio via a low-power FM transmitter. Music goes into the transmitter directly from
 the Raspberry Pi and broadcasted on an open frequency. Radio Locator in the

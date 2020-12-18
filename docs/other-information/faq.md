@@ -15,9 +15,17 @@ socket, which would result in a short.
 
 ## How much does it cost to run the light show? Your electric bill must be high!
 
-With all lights turned on (current count is 2130 LEDs), it pulls 130 Watts.
-The show controller and components can pull a maximum of 480 Watts.
-Thus the show in total can use 610 (480 + 130) Watts maximum.
+Since LEDs are used for the light show, it is not high at all. To run the show for 5 weeks, 
+with all the lights on would cost $38.90.  Given that all the lights are not all the entire time and
+the equipment is not running at max capacity (which hardly ever happens), the actual cost is less than this.
+
+See [Do The Math](#do-the-math) for the breakout and how this cost was derived.
+
+### Do The Math
+
+With all lights turned on (2130 LEDs were used for the 2020 Light Show), it pulls 130 Watts.
+The show controller and components can pull a maximum of 305 Watts.
+Thus the show in total can use 435 (130 + 305) Watts maximum.
 
 The lights run for 33.5 hours per week (Sunday through Thursday, 4.5 hours; Friday and Saturday, 5.5 hours).
 The show runs for 5 weeks during the Christmas season.
@@ -30,13 +38,7 @@ since they are on for different durations.
 ```shell
 E(kWh lights) = P(W) × t(hr) / 1000 = 130 Watts * 33.5 hours / 1000 = 4.355 kWh
 
-E(kWh controller) = P(W) × t(hr) / 1000 = 480 Watts * 168 hours / 1000 = 80.64 kWh
-```
-
-That means the total kWh used is
-
-```shell
-80.64 + 4.355 = 84.995 kWh
+E(kWh controller) = P(W) × t(hr) / 1000 = 435 Watts * 168 hours / 1000 = 73.08 kWh
 ```
 
 The rate for electricity during the winter months (Oct-May) is $0.100511 per kWh.
@@ -44,11 +46,11 @@ The rate for electricity during the winter months (Oct-May) is $0.100511 per kWh
 ```shell
 Cost for lights = 0.100511 * 4.355 kWh = 0.44
 
-Cost for controller = 0.100511 * 80.64 kWh = 8.11
+Cost for controller = 0.100511 * 73.08 kWh = 7.34
 ```
 
-That means the maximum total cost of the show for the entire
-Christmas season would be $8.55 or 24 cents per day.
+That means the maximum total cost of the show per week is 
+Christmas season would be $7.78 or $38.90 for the entire season.
 
 Now given that the light show does not have all of the lights on at any given point during the show and
 the controller is not running at maximum capacity all of the time, the
