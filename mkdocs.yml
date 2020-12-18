@@ -3,6 +3,8 @@ site_description: Documentation about the Christmas Light Show
 site_url: https://lightshow.thealmostengineer.com
 copyright: Copyright 2020, Kenny Robinson
 
+site_favicon: images/lightbulb/favicon.ico
+
 # repository information
 repo_url: https://github.com/almostengr/lightshow
 repo_name: Github
