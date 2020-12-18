@@ -18,8 +18,3 @@ div.rst-content a {
 li.wy-breadcrumbs-aside {
     display: none;
 }
-
-section.wy-nav-content-wrap
-{
-    background-color: var(--dark-green);
-}

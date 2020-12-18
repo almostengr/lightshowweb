@@ -1,5 +1,7 @@
 # 2020 Christmas Light Show
 
+![2020 Light Show](/images/2020 Christmas Light Show 20201211-f000000.jpg)
+
 ## Show Times and Dates
 
 Show will run nightly from November 27, 2020 until January 2, 2021.
@@ -28,9 +30,8 @@ The songs below are synchronized to the lights and play during [show times](#sho
 * Show Introduction (01:49)
 * Boyz II Men Countdown (00:10)
 * 20th Century Fox Theme (00:20)
-* Christmas Time Is Party Time - Luke (03:21)
 * Christmas Eve/Sarajevo - Trans-Siberian Orchestra (03:24)
-* What You Want For Christmas - Quad City DJs and K-nock (04:35)
+* Nutrocker - Trans-Siberian Orchestra (02:20)
 * Silent Night - The Temptations (06:16)
 
 ### Offline Playlist
