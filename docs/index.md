@@ -2,7 +2,9 @@
 
 ![2020 Light Show](/images/2020 Christmas Light Show 20201211-f000000.jpg)
 
-## Show Times and Dates
+## Show Details
+
+### Show Dates and Times
 
 Show will run nightly from November 27, 2020 until January 2, 2021.
 
@@ -11,13 +13,33 @@ Show will run nightly from November 27, 2020 until January 2, 2021.
 
 Heavy rains may cancel the show. See [Rain Delay](#rain-delay) for more information.
 
-## Music
-
 ### Listen From Your Car
 
 To listen to the light show, tune your radio to 90.3 FM.
 It is asked that you keep your radio volume down to not disturb the neighbors and 
 passengers remain in your vehicle to observe social distancing guidelines and for your safety.
+
+## Video
+
+Unable to make it to the show in person? 
+You can watch this years light show below or 
+<a href="https://www.youtube.com/watch?v=fs6Lx8ySL9Y&feature=youtu.be" target="_blank">on YouTube</a>.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fs6Lx8ySL9Y" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## More Information
+
+This year's show has:
+
+* 2,130 LED lights (430 red, 700 white)
+* 16 channels
+
+### Rain Delay
+
+During times of heavy rain, or in the worse case snow, the light show may be stopped to reduce the
+chance of electrical shorts occurring. If the show is cancelled, it is asked that you revisit
+another evening after the rain has cleared.
 
 ### Show Playlist (Approximately 15 minutes)
 
@@ -31,25 +53,6 @@ The songs below are synchronized to the lights and play during [show times](#sho
 * Nutrocker - Trans-Siberian Orchestra
 * Silent Night - The Temptations
 * Show Conclusion
-
-## Video
-
-You can watch this years light show below or 
-<a href="https://www.youtube.com/watch?v=fs6Lx8ySL9Y&feature=youtu.be" target="_blank">on YouTube</a>.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fs6Lx8ySL9Y" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## More Information
-
-* 2,130 LED lights (430 red, 700 white)
-* 16 channels
-
-### Rain Delays
-
-During times of heavy rain, or in the worse case snow, the light show may be stopped to reduce the
-chance of electrical shorts occurring. If the show is cancelled, it is asked that you revisit
-another evening after the rain has cleared.
 
 ### Offline Playlist
 
