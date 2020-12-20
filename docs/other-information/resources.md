@@ -16,6 +16,7 @@ Below are links to other websites and reference documentation that was used to b
 * <a href="https://www.facebook.com/theminionhouse334" target="_blank">The Minion House (MGM)</a>
 * <a href="https://tzchristmas.com" target="_blank">Thyno Zgouvas' Christmas Wonderland (MGM)</a>
 * <a href="https://www.wayoffbroadwaylights.com/" target="_blank">Way Off Broadway Lights (MGM)</a>
+* <a href="https://www.wsfa.com/video/2020/11/30/wetumpka-family-puts-griswold-christmas-display-th-year/" target="_blank">Wetumpka Griswold Christmas (MGM)</a>
 
 *Those with "MGM" in parenthesis are in or near the Montgomery, Alabama area.*
 
