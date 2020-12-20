@@ -18,7 +18,7 @@ socket, which would result in a short.
 ### Short Answer
 
 Since LEDs are used for the light show, it is not high at all. To run the show for 5 weeks, 
-with all the lights on would cost a maximum of $38.90.  Given that all the lights are not all the entire time and
+with all the lights on (2,130 LEDs) would cost a maximum of $38.90.  Given that all the lights are not all the entire time and
 the equipment is not running at max capacity (which hardly ever happens), the actual cost is less than this.
 
 See [Do The Math](#long-answer-do-the-math) for the breakout and how this cost was derived.
