@@ -28,7 +28,11 @@
     href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the
     Docs</a>.
 
+  {% if page and page.is_homepage %}
   <div>
-    <strong>Last Updated:</strong> {{ build_date_utc }} UTC
+    <p>
+      <strong>Last Updated:</strong> {{ build_date_utc }} UTC
+    </p>
   </div>
+  {% endif %}
 </footer>
