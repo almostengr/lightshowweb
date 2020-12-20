@@ -20,6 +20,10 @@
 * Control and audio
 * Output/Lighting Connections
 
+### Volts, Amps, and Watts 
+
+<a href="https://www.youtube.com/watch?v=gOk3pl4hmeQ" target="_blank">Video Explaination</a>
+
 #### Raspberry Pi and FM Transmitter
 
 ![Raspberry Pi and FM Transmitter](/images/20201220presentation/20201220_084747.jpg)
@@ -66,9 +70,17 @@
 * <a href="https://twitter.com/hpchristmas" target="_blank">@hpchristmas on Twitter</a>
 * <a href="https://github.com/almostengr/falconpimonitor" target="_blank">Source Code</a>
 
+![Screenshot of tweets from the application](/images/20201220presentation/twittertweets.jpg)
+
 ## 2020 Christmas Light Show
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fs6Lx8ySL9Y" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="https://www.youtube.com/watch?v=fs6Lx8ySL9Y" target="_blank">Watch on YouTube</a>
+
+
+### Playlist of Videos 
+
+<a href="https://www.youtube.com/playlist?list=PLaAJ0fv0d9WMP8NtSiJGUoiHDEwrlUPCO" 
+target="_blank">Video Playlist</a>
