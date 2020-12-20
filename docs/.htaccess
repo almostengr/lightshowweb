@@ -1,9 +1,8 @@
 # Apache settings:
 
 # Handle any server errors
-ErrorDocument 403 /403/index.html
-ErrorDocument 404 /404/index.html
-ErrorDocument 500 /500/index.html
+ErrorDocument 404 /404.html
+ErrorDocument 500 /500.html
 
 # Prevent Apache from serving .htaccess files:
 <FilesMatch "^\.htaccess">
@@ -43,7 +42,7 @@ ErrorDocument 500 /500/index.html
   # RewriteCond %{SERVER_PORT} 80
   # RewriteRule ^(.*)$ https://thealmostengineer.com [L,R=301]
   RewriteCond %{https} off  
-  RewriteRule ^(.*)$ https://thealmostengineer.com/$1 [R=301,L]
+  RewriteRule ^(.*)$ https://lightshow.thealmostengineer.com/$1 [R=301,L]
 </IfModule>
 
 ## EXPIRES CACHING ##
