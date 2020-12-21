@@ -16,16 +16,16 @@ Heavy rains may cancel the show. See [Rain Delay](#rain-delay) for more informat
 ### Listen From Your Car
 
 To listen to the light show, tune your radio to 90.3 FM.
-It is asked that you keep your radio volume down to not disturb the neighbors and 
+It is asked that you keep your radio volume down to not disturb the neighbors and
 passengers remain in your vehicle to observe social distancing guidelines and for your safety.
 
 ## Video
 
-Unable to make it to the show in person? 
-You can watch this years light show below or 
+Unable to make it to the show in person?
+You can watch this years light show below or
 <a href="https://www.youtube.com/watch?v=fs6Lx8ySL9Y&feature=youtu.be" target="_blank">on YouTube</a>.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fs6Lx8ySL9Y" frameborder="0" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fs6Lx8ySL9Y" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## More Information
@@ -69,6 +69,7 @@ non-show hours.
 * Nutrocker - Trans-Siberian Orchestra
 * O Come All Ye Faithful - Luther Vandross
 * O Holy Night - Mariah Carey
+* Silent Night - Boys 2 Men
 * Silent Night - The Temptations
 * Someday at Christmas - Stevie Wonder
 * Taking Care of Christmas - Randy Bachman
