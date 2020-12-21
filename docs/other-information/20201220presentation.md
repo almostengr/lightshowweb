@@ -78,9 +78,3 @@
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="https://www.youtube.com/watch?v=fs6Lx8ySL9Y" target="_blank">Watch on YouTube</a>
-
-
-### Playlist of Videos 
-
-<a href="https://www.youtube.com/playlist?list=PLaAJ0fv0d9WMP8NtSiJGUoiHDEwrlUPCO" 
-target="_blank">Video Playlist</a>
