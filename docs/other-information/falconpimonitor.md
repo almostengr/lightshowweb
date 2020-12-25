@@ -1,5 +1,7 @@
 # Falcon Pi Monitor
 
+![](/images/20201220presentation/twittertweets.jpg)
+
 This project is designed for Falcon Pi Player to provide updates via Twitter on the light show that 
 you are running. Those updates include posting the current song and providing alerts when problems
 are detected.
