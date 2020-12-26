@@ -45,6 +45,7 @@ Yes, there are many that exist. See the list below.
 * <a href="https://tzchristmas.com" target="_blank">Thyno Zgouvas' Christmas Wonderland (MGM)</a>
 * <a href="https://www.wayoffbroadwaylights.com/" target="_blank">Way Off Broadway Lights (MGM)</a>
 * <a href="https://www.wsfa.com/video/2020/11/30/wetumpka-family-puts-griswold-christmas-display-th-year/" target="_blank">Wetumpka Griswold Christmas (MGM)</a>
+* <a href="https://woodardfamilylights" target="_blank">Woodard Family Lights</a>
 
 ## Money
 
